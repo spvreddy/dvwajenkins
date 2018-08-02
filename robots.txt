@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+<br>
+some thing sensitive here
+you accessed internal file
